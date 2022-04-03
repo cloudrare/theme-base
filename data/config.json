@@ -1,0 +1,84 @@
+{
+    "title": "Cloudrare",
+    "color_scheme": "light",
+    "accent_color": "blue",
+    "base_font": "inter",
+    "header": {
+        "title": "Cloudrare",
+        "logo": "images/logo.svg",
+        "logo_alt": "Comience a usar la web3 para almacenar sus archivos. Construya sus proyectos en cloudrare ahorrando tiempo y dinero",
+        "has_view": false,
+        "has_nav": false,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Work",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Journal",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "button"
+            }
+        ]
+    },
+    "footer": {
+        "content": "Cloudrare.",
+        "has_view": false,
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Facebook",
+                "url": "https://facebook.com/cloudrareHQ",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/cloudrare",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://instagram.com/cloudrare",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/cloudrare",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/company/cloudrare",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://cloudra.re",
+    "favicon": "images/favicon.png"
+}
